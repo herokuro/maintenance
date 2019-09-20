@@ -1,0 +1,28 @@
+{
+  "name": "@herokuro/maintenance",
+  "version": "0.0.0-development",
+  "description": "A simple maintenance manager for Heroku.",
+  "author": "Richard King <richrdkng@gmail.com> (www.richrdkng.com)",
+  "license": "ISC",
+  "homepage": "https://github.com/herokuro/maintenance#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herokuro/maintenance.git"
+  },
+  "bugs": {
+    "url": "https://github.com/herokuro/maintenance/issues"
+  },
+  "keywords": [
+    "herokuro",
+    "@herokuro",
+    "heroku",
+    "website",
+    "maintenance"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
