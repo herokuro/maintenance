@@ -1,0 +1,35 @@
+# editor settings
+.idea
+.vscode
+.editorconfig
+
+# GitHub templates
+.github
+
+# doc files
+doc
+
+# coverage files
+coverage
+coverage.lcov
+.nyc_output
+
+# media files
+media
+
+# development files
+test
+.nodemonrc
+
+# build/ci files
+script
+scripts
+.gitattributes
+.czrc
+.nvmrc
+.nycrc
+.releaserc
+.travis.yml
+
+# source files
+src
